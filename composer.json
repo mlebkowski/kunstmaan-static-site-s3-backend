@@ -2,7 +2,7 @@
     "name": "nassau/kunstmaan-static-site-s3-backend",
     "description": "S3 Backend for Kunstmaan Static Site Bundle",
     "autoload": {
-        "psr-4":
+        "psr-4": {
             "Nassau\\KunstmaanStaticSiteS3Backend\\": "src/"
         }
     },
